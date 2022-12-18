@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.exe
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.deps.json
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.dll
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\bin\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.pdb
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.dll
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\refint\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.dll
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.pdb
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar\obj\Debug\net5.0\ref\Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.dll

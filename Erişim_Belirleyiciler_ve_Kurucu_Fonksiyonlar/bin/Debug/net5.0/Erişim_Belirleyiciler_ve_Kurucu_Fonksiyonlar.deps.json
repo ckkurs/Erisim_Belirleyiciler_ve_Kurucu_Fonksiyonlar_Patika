@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar/1.0.0": {
+        "runtime": {
+          "Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Erişim_Belirleyiciler_ve_Kurucu_Fonksiyonlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
